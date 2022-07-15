@@ -1,6 +1,6 @@
 # Project 5
 
-I started by created the two ubuntu servers to be used for this project. One as a SERVER and the other as a CLIENT
+I started by creating the two ubuntu servers to be used for this project. One as a SERVER and the other as a CLIENT
 
 ``Server A name - mysql server``
 
