@@ -33,7 +33,7 @@ password`
 ![create-pblproject5-database.PNG](./images/create-pblproject5-database.PNG)
 
 
-**granted user ***alli*** access to all databases**
+**granted user ***alli*** access to the created database**
 
 
 `GRANT ALL ON pblproject5.* TO 'alli'@'%';`
