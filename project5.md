@@ -1,6 +1,6 @@
 # Project 5
 
-I started by created the two ubuntu servers to be used for this project. One as a SERVER and the other as a CLIENT
+I started by creating the two ubuntu servers to be used for this project. One as a SERVER and the other as a CLIENT
 
 ``Server A name - mysql server``
 
@@ -32,7 +32,7 @@ did `sudo mysql` and next created user ***alli** with password ***password***
 ![create-pblproject5-database.PNG](./images/create-pblproject5-database.PNG)
 
 
-**granted user ***alli*** access to all databases**
+**granted user ***alli*** access to the created database**
 
 
 `GRANT ALL ON pblproject5.* TO 'alli'@'%';`
@@ -95,6 +95,9 @@ then, I confirmed the status running with the command
 
 
 ***project 5 completed succesfully***
+<<<<<<< HEAD
 
 
 next
+=======
+>>>>>>> fad32678b8c4ecad80424249fad71ebbf14fd77e
