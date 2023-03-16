@@ -22,8 +22,7 @@ I started by created the two ubuntu servers to be used for this project. One as 
 
 did `sudo mysql` and next created user ***alli** with password ***password***
 
-`create user 'alli'@'%' identified with mysql_native_password BY '
-password`
+`create user 'alli'@'%' identified with mysql_native_password BY 'password`
 
 
 ![create-user-and-select.PNG](./images/create-user-and-select.PNG)
